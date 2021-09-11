@@ -1,0 +1,7 @@
+{
+  "name": "Reproduce-Renovate-discussion-11438",
+  "dependencies": {
+    "@angular/core": "~11.1.0",
+    "uuid": "^8.3.2"
+  }
+}
