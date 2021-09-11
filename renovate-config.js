@@ -5,6 +5,5 @@ module.exports = {
   "gitAuthor": "Renovate Bot <renovate@labelvier.nl>",
   "baseDir": "/tmp/renovate",
   "extends": ["config:base"],
-  "dryRun": true,
   "repositories": ["astellingwerf/renovate-issue-11680"]
 }
