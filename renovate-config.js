@@ -6,5 +6,6 @@ module.exports = {
   "baseDir": "/tmp/renovate",
   "extends": ["config:base"],
   "dryRun": true,
-  "autodiscover": true
+  "autodiscover": true,
+  "autodisoverFilter": "astellingwerf/renovate-issue-11680"
 }
