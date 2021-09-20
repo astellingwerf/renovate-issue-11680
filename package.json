@@ -1,8 +1,8 @@
 {
   "name": "Reproduce-Renovate-discussion-11438",
   "dependencies": {
-    "@angular/core": "~12.2.5",
+    "@angular/core": "12.2.5",
     "@fortawesome/react-fontawesome": "^0.1.4",
-    "uuid": "^8.3.2"
+    "uuid": "8.3.2"
   }
 }
